@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi I'm Mike and this is my portfolio/blog.  I'm a CS student at UoPeople and I expect to graduate in 2023.  I love technology and want to share some of my interests and projects on this site.
