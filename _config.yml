@@ -35,7 +35,7 @@ github:
   username: mgregoire254             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: MikeGregoire254            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,8 +44,8 @@ social:
   email: mgregoire254@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/mikegregoire254      # change to your twitter homepage
+    - https://github.com/mgregoire254       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/profilephoto.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
