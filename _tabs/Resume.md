@@ -6,7 +6,7 @@ order: 3
 
 # Michael J. Gregoire
 
-Massachusetts | mike \<at> mikegregoire \<dot>me | [Blog] (https://www.mikegregoire.me) | [Github] (https://github.com/mgregoire254) | [Linkedin] (https://www.linkedin.com/in/mgregoire254/)
+mike@mikegregoire.me | [Blog](https://www.mikegregoire.me) | [Github](https://github.com/mgregoire254) | [Linkedin](https://www.linkedin.com/in/mgregoire254/)
 
 PDF: <a href="http://mgregoire254.github.io/assets/MikeGregoireResume.pdf" target="_blank">Resume</a>
 
