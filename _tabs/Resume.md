@@ -19,7 +19,7 @@ Creative, detail-oriented, software engineer with a deep interest in web applica
 * **Other Skills**: PostgreSQL, OOP, Docker
 
 ## Projects
-See [Projects Page] (https://mikegregoire.me/projects/)
+See [Projects Page](https://mikegregoire.me/projects/)
 
 ## Education and Certifications
 ### University of the People, CA - B.S Computer Science
