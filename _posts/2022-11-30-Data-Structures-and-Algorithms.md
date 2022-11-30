@@ -12,7 +12,7 @@ Stacks are a Last in First Out data structure.  This is like a stack of items in
 
 To create a stack in java we can use the syntax:
 
-```Java
+```java
 Stack<String> stack = new Stack<String>();
 ```
 
@@ -20,15 +20,15 @@ This would create a new instance of the Stack object called "stack".
 
 Methods for working with stacks include push(add), pop(remove) and peek(look at the top but dont remove).  Here are some examples:
 
-```Java
+```java
 stack.push("Minecraft");
 ```
 
-```Java
+```java
 stack.pop();
 ```
 
-```Java
+```java
 stack.peek();
 ```
 
