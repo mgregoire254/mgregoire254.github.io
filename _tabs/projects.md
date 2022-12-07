@@ -8,8 +8,5 @@ This is where I will post my projects.  Check back here and there to see if ive 
 
 ## Web Projects
 
-
-## Python
-
-
-## Java
+[Ham Radio Contact Log App](https://github.com/mgregoire254/Flask-Ham-Contact-Log)
+A contact log application for ham radio contacts built with flask and python
