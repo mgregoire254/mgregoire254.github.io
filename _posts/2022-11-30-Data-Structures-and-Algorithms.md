@@ -33,6 +33,3 @@ stack.peek();
 ```
 
 Check out some code i wrote up working with stacks in Java on my github [here](https://github.com/mgregoire254/Data-Structures-and-Algorithms-Practice)
-
-
-In my next post we will look at Queues using Java.
