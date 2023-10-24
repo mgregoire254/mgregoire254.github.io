@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New_York
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Mike Gregoire                          # the main title
 
-tagline: Computer Science Student and Future Developer   # it will display as the sub-title
+tagline: Computer Science Student and Software Engineer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Mike Gregoire's personal portfolio and blog.
