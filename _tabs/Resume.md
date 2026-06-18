@@ -9,7 +9,7 @@ I’m currently a Programmer Analyst at Stephen F. Austin State University, work
 My work includes development, systems analysis, testing, troubleshooting, production support, reporting improvements, enterprise integrations, documentation, and process automation.
 ## Current Focus Areas
 - Enterprise applications and business systems
-- Finance, institutional, and UT System reporting support
+- Finance and institutional reporting support
 - Reporting modernization and WebFOCUS workflow improvements
 - Data cleanup, validation, reconciliation, and automation
 - Internal tooling and repeatable workflow development
