@@ -23,10 +23,10 @@ timezone: America/Chicago
 
 title: Mike Gregoire                          # the main title
 
-tagline: Computer Science Student and Programmer/Analyst   # it will display as the sub-title
+tagline: Enterprise Applications • Reporting • Automation • Data   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Mike Gregoire's personal portfolio and blog.
+  Personal site of Mike Gregoire, an enterprise technology professional and Programmer Analyst focused on enterprise applications, reporting, automation, data quality, internal tooling, and systems modernization.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://mgregoire254.github.io/'
@@ -44,11 +44,11 @@ social:
   email: mike@mikegregoire.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mikegregoire254      # change to your twitter homepage
     - https://github.com/mgregoire254       # change to your github homepage
+    - https://www.linkedin.com/in/mgregoire254/
+    - https://twitter.com/mikegregoire254      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/mgregoire254/
 
 google_site_verification:               # fill in to your verification string
 
